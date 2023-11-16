@@ -60,6 +60,6 @@ def tan(number):
     print(df)
     return
 
-# Calling the group of commands to "activate" those
+# Calling the group of commands to "activate" all commands
 if __name__ == "__main__":
     cmd_group()
